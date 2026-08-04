@@ -1,0 +1,26 @@
+{
+  "bitcoin": {
+    "usd": 63907,
+    "ngn": 87117058
+  },
+  "ethereum": {
+    "usd": 1867.07,
+    "ngn": 2545155
+  },
+  "binancecoin": {
+    "usd": 591.96,
+    "ngn": 806954
+  },
+  "tether": {
+    "usd": 0.999216,
+    "ngn": 1362.11
+  },
+  "pi-network": {
+    "usd": 0.083849,
+    "ngn": 114.3
+  },
+  "the-open-network": {
+    "usd": 1.39,
+    "ngn": 1892.18
+  }
+}
