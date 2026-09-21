@@ -1,4 +1,5 @@
 # Crypto Price Email
+<img width="1920" height="1080" alt="Screenshot from 2026-09-21 19-02-52" src="https://github.com/user-attachments/assets/e03cf0b5-122f-4b9a-94d3-e30affe71e9a" />
 
 Sends a daily email at 6:00 AM (WAT) with the current price (in both USD
 and NGN), plus how much it's moved since yesterday's email — in $, ₦,
